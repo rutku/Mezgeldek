@@ -11,8 +11,8 @@ Requriements
 How to install
 --------------
 
->-qmake
->-make
+>- qmake
+>- make
 
 
 Screenshot
