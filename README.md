@@ -6,13 +6,13 @@ This is image resizing application.
 Requriements
 ------------
 
--Qt5
+>-Qt5
 
 How to install
 --------------
 
--qmake
--make
+>-qmake
+>-make
 
 
 Screenshot
